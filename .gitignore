@@ -1,0 +1,21 @@
+# Node specific #
+#################
+npm-debug.log
+node_modules/
+
+### Code ###
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
+
+### Sass ###
+.sass-cache/
+*.css.map
+
+# Logs #
+########
+*.log
+
+# Note to self #
+################
+notes.md
